@@ -4,6 +4,7 @@ Selenium Login Automation (Python)
 This project automates login functionality using Selenium WebDriver with Python.
 
 🚀 Features
+
 Invalid login test
 Valid login test
 Logout test
