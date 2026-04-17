@@ -7,33 +7,33 @@ This project automates login functionality using Selenium WebDriver with Python.
 
 **🚀 Features**
 
-Invalid login test
+  Invalid login test
 
-Valid login test
+  Valid login test
 
-Logout test
+  Logout test
 
-XPath locators
+  XPath locators
 
-Explicit waits (WebDriverWait)
+  Explicit waits (WebDriverWait)
 
 
 **🛠️ Tools**
 
-Python
+  Python
 
-Selenium
+  Selenium
 
 
 **▶️ How to Run**
 
-Install selenium:
+  Install selenium:
 
-pip install selenium
+  pip install selenium
 
-Run script:
+  Run script:
 
-python test_login.py
+  python test_login.py
 
 
 **📷 Output**
