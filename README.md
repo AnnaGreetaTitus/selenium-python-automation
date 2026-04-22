@@ -12,6 +12,8 @@ This project automates login functionality using Selenium WebDriver with Python.
 
   Logout test
 
+  Dropdown handling
+
   XPath locators
 
   Explicit waits (WebDriverWait)
